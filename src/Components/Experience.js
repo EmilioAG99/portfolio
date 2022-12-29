@@ -46,7 +46,7 @@ function Experience() {
             </article>
           </div>
         </div>
-        <div class="experience__back">
+        <div className="experience__back">
           <h3>Backend Development</h3>
           <div className="experience__content">
             <article className="experience__details">

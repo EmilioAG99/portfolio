@@ -21,7 +21,7 @@ function Portfolio() {
   const generateProjects = () => {
     return data.projects.map((project, index) => {
       return (
-        <SingleProject information={project}>
+        <SingleProject information={project} key={index}>
           <img src={images[index]} alt="project" />
         </SingleProject>
       );
