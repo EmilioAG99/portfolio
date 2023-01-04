@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.02d3d0e9.css",
+    "main.js": "/portfolio/static/js/main.a40c6360.js",
+    "static/media/me2.png": "/portfolio/static/media/me2.fe84e7035c5c7ce1c536.png",
+    "static/media/me.png": "/portfolio/static/media/me.acce9042d1ab112fe3a9.png",
+    "static/media/graficas.png": "/portfolio/static/media/graficas.4d3df02a1a75bb277076.png",
+    "static/media/iosApp.png": "/portfolio/static/media/iosApp.545232823665ff4390f9.png",
+    "static/media/detection.png": "/portfolio/static/media/detection.236aa79e46e021808fe5.png",
+    "static/media/backend.png": "/portfolio/static/media/backend.9582247116395b29c4eb.png",
+    "static/media/CV_AlcantaraLuis.pdf": "/portfolio/static/media/CV_AlcantaraLuis.45c1ecd8e8c7c1b296d2.pdf",
+    "static/media/ValorApp.png": "/portfolio/static/media/ValorApp.75ee3358bba972767435.png",
+    "static/media/cinematec.png": "/portfolio/static/media/cinematec.7f21e0ab9e7832cfb9bd.png",
+    "static/media/compilador.png": "/portfolio/static/media/compilador.415a8c965ecbf51ac9f6.png",
+    "index.html": "/portfolio/index.html",
+    "main.02d3d0e9.css.map": "/portfolio/static/css/main.02d3d0e9.css.map",
+    "main.a40c6360.js.map": "/portfolio/static/js/main.a40c6360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02d3d0e9.css",
+    "static/js/main.a40c6360.js"
+  ]
+}
